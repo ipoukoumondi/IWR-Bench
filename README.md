@@ -2,8 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.24709-b31b1b.svg)](https://arxiv.org/abs/2509.24709)
 [![HuggingFace Datasets](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/IWR-Bench/IWR-Bench)
-[![GitHub](https://img.shields.io/badge/GitHub-Project-blue)](https://github.com/L-O-I/IWR-Bench)
-[![Website](https://img.shields.io/badge/Homepage-Leaderboard-green)](https://l-o-i.github.io/IWR-Bench/)
+[![GitHub](https://img.shields.io/badge/GitHub-Project-blue)](https://github.com/SIGMME/IWR-Bench.git)
+[![Website](https://img.shields.io/badge/Homepage-Leaderboard-green)](https://sigmme.github.io/IWR-Bench/)
 
 ## Introduction
 
